@@ -1,0 +1,236 @@
+03-16 12:08:44.072 27688-27756/com.zealens.face E/UmpireManagerAppLevel: getInitComponentsTask: train flow
+03-16 12:08:54.085 27688-27756/com.zealens.face E/TennisDrill: [L56][init]: TennisBaseImpl:: failed to write! isSuccess=1, m_isSuccess=0
+03-16 12:09:06.102 27688-27756/com.zealens.face E/TennisDrill: [L56][init]: TennisBaseImpl:: failed to write! isSuccess=1, m_isSuccess=0
+03-16 12:09:20.117 27688-27756/com.zealens.face E/TennisDrill: [L56][init]: TennisBaseImpl:: failed to write! isSuccess=1, m_isSuccess=0
+03-16 12:09:31.604 27688-27756/com.zealens.face E/UmpireManagerAppLevel: getInitComponentsTask: train flow
+03-16 12:09:32.159 27688-27757/com.zealens.face E/IPCamera: [L43][init]: IPCamera::init tmpPath=/video/tv/, ip=192.168.1.196, port=0, userName=admin, password=uVD3ujMYCvVSFmNr
+03-16 12:09:36.013 27688-27757/com.zealens.face E/IPCamera: [L43][init]: IPCamera::init tmpPath=/video/tv/, ip=192.168.1.197, port=0, userName=admin, password=uVD3ujMYCvVSFmNr
+03-16 12:09:37.517 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173377516A0-0-0-0-0-0.mp4
+03-16 12:09:37.522 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173377522B0-0-0-0-0-0.mp4
+03-16 12:09:45.964 27688-29280/com.zealens.face E/MediaPlayer: stop called in state 1
+03-16 12:09:45.964 27688-29280/com.zealens.face E/MediaPlayer: error (-38, 0)
+03-16 12:09:45.964 27688-27688/com.zealens.face E/MediaPlayer: Error (-38,0)
+03-16 12:09:45.978 27688-29280/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:09:45.978 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:09:46.184 27688-27688/com.zealens.face E/AnalyticsActivity: mUmpirePresenter.getAnalyzeData()[Lcom.zealens.face.core.internal.TennisBase$DrillBoxScore;@27a9e3c4
+03-16 12:09:46.192 27688-27688/com.zealens.face E/AnalyticsPresenterImpl: 比赛或训练结束页面
+03-16 12:09:46.203 27688-27688/com.zealens.face E/MediaPlayer: stop called in state 1
+03-16 12:09:46.203 27688-27688/com.zealens.face E/MediaPlayer: error (-38, 0)
+03-16 12:09:46.219 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:09:46.455 27688-27688/com.zealens.face E/insideRate:: 0
+03-16 12:09:46.455 27688-27688/com.zealens.face E/insideAngle:: 0.0
+03-16 12:09:46.455 27688-27688/com.zealens.face E/angle_inside:: 0.0
+03-16 12:09:46.455 27688-27688/com.zealens.face E/mediumRate:: 0
+03-16 12:09:46.456 27688-27688/com.zealens.face E/mediumAngle:: 0.0
+03-16 12:09:46.456 27688-27688/com.zealens.face E/angle_medium:: 0.0
+03-16 12:09:46.456 27688-27688/com.zealens.face E/outsideRate: 0
+03-16 12:09:46.456 27688-27688/com.zealens.face E/outsideAngle: 0.0
+03-16 12:09:46.456 27688-27688/com.zealens.face E/angle_outside: 0.0
+03-16 12:09:46.456 27688-27688/com.zealens.face E/insideRate:: 0
+03-16 12:09:46.456 27688-27688/com.zealens.face E/insideAngle:: 0.0
+03-16 12:09:46.462 27688-27688/com.zealens.face E/angle_inside:: 0.0
+03-16 12:09:46.462 27688-27688/com.zealens.face E/mediumRate:: 0
+03-16 12:09:46.463 27688-27688/com.zealens.face E/mediumAngle:: 0.0
+03-16 12:09:46.463 27688-27688/com.zealens.face E/angle_medium:: 0.0
+03-16 12:09:46.463 27688-27688/com.zealens.face E/outsideRate: 0
+03-16 12:09:46.464 27688-27688/com.zealens.face E/outsideAngle: 0.0
+03-16 12:09:46.464 27688-27688/com.zealens.face E/angle_outside: 0.0
+03-16 12:09:46.465 27688-27688/com.zealens.face E/ssLeft: 0-0-0-0
+03-16 12:09:46.466 27688-27688/com.zealens.face E/ssright: 0-0-0-0
+03-16 12:09:46.632 27688-27688/com.zealens.face E/RecyclerView: No adapter attached; skipping layout
+03-16 12:09:46.633 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:09:46.757 27688-27688/com.zealens.face E/RecyclerView: No adapter attached; skipping layout
+03-16 12:09:52.215 27688-27756/com.zealens.face E/UmpireManagerAppLevel: getInitComponentsTask: train flow
+03-16 12:09:52.305 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173392305A0-0-0-0-0-0.mp4
+03-16 12:09:52.305 27688-27757/com.zealens.face E/IPCamera: [L126][startRecord]: Failed to call NETDEV_SaveRealData(), NETDEV_GetLastError = 0x00000601
+03-16 12:09:52.305 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:09:52.335 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173392335B0-0-0-0-0-0.mp4
+03-16 12:09:52.335 27688-27757/com.zealens.face E/IPCamera: [L126][startRecord]: Failed to call NETDEV_SaveRealData(), NETDEV_GetLastError = 0x00000601
+03-16 12:09:52.335 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:03.358 27688-29723/com.zealens.face E/MediaPlayer: stop called in state 1
+03-16 12:10:03.358 27688-29723/com.zealens.face E/MediaPlayer: error (-38, 0)
+03-16 12:10:03.368 27688-29723/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:03.368 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:03.373 27688-29723/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=1, hardCount=0}
+03-16 12:10:06.381 27688-29723/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:06.394 27688-29723/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 12:10:06.395 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:06.395 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:06.428 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:06.469 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173406469A0-0-0-0-0-0.mp4
+03-16 12:10:06.475 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173406475B0-0-0-0-0-0.mp4
+03-16 12:10:11.406 27688-29723/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:11.406 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:11.418 27688-29723/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=2, hardCount=0}
+03-16 12:10:13.414 27688-29723/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:13.414 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:13.429 27688-29723/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 12:10:13.430 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:13.459 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:13.511 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173413511A0-0-0-0-0-0.mp4
+03-16 12:10:13.519 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173413519B0-0-0-0-0-0.mp4
+03-16 12:10:17.795 27688-30296/com.zealens.face E/libEGL: validate_display:255 error 3008 (EGL_BAD_DISPLAY)
+03-16 12:10:22.556 27688-29723/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:22.556 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:22.628 27688-29723/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=2, hardCount=0}
+03-16 12:10:22.705 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:22.777 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:22.801 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173422801A0-0-0-0-0-0.mp4
+03-16 12:10:22.808 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173422808B0-0-0-0-0-0.mp4
+03-16 12:10:24.159 27688-27688/com.zealens.face E/AnalyticsActivity: mUmpirePresenter.getAnalyzeData()[Lcom.zealens.face.core.internal.TennisBase$DrillBoxScore;@27a9e3c4
+03-16 12:10:24.159 27688-27688/com.zealens.face E/AnalyticsPresenterImpl: 比赛或训练结束页面
+03-16 12:10:24.160 27688-27688/com.zealens.face E/MediaPlayer: stop called in state 1
+03-16 12:10:24.160 27688-27688/com.zealens.face E/MediaPlayer: error (-38, 0)
+03-16 12:10:24.172 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:24.285 27688-27688/com.zealens.face E/insideRate:: 33
+03-16 12:10:24.285 27688-27688/com.zealens.face E/insideAngle:: 118.8
+03-16 12:10:24.285 27688-27688/com.zealens.face E/angle_inside:: 171.14255
+03-16 12:10:24.285 27688-27688/com.zealens.face E/mediumRate:: 67
+03-16 12:10:24.285 27688-27688/com.zealens.face E/mediumAngle:: 241.20001
+03-16 12:10:24.285 27688-27688/com.zealens.face E/angle_medium:: 171.14253
+03-16 12:10:24.285 27688-27688/com.zealens.face E/outsideRate: 83
+03-16 12:10:24.285 27688-27688/com.zealens.face E/outsideAngle: 298.8
+03-16 12:10:24.285 27688-27688/com.zealens.face E/angle_outside: 59.85747
+03-16 12:10:24.286 27688-27688/com.zealens.face E/insideRate:: 0
+03-16 12:10:24.286 27688-27688/com.zealens.face E/insideAngle:: 0.0
+03-16 12:10:24.286 27688-27688/com.zealens.face E/angle_inside:: 0.0
+03-16 12:10:24.286 27688-27688/com.zealens.face E/mediumRate:: 0
+03-16 12:10:24.286 27688-27688/com.zealens.face E/mediumAngle:: 0.0
+03-16 12:10:24.286 27688-27688/com.zealens.face E/angle_medium:: 0.0
+03-16 12:10:24.286 27688-27688/com.zealens.face E/outsideRate: 50
+03-16 12:10:24.286 27688-27688/com.zealens.face E/outsideAngle: 180.0
+03-16 12:10:24.286 27688-27688/com.zealens.face E/angle_outside: 231.0
+03-16 12:10:24.287 27688-27688/com.zealens.face E/ssLeft: 0-0-0-0
+03-16 12:10:24.287 27688-27688/com.zealens.face E/ssright: 100-0-0-100
+03-16 12:10:24.463 27688-27688/com.zealens.face E/RecyclerView: No adapter attached; skipping layout
+03-16 12:10:24.464 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:24.581 27688-27688/com.zealens.face E/RecyclerView: No adapter attached; skipping layout
+03-16 12:10:25.685 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:25.710 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:25.853 27688-27757/com.zealens.face E/SQLiteLog: (1) no such table: TRAIN_EVENT
+03-16 12:10:25.942 27688-27756/com.zealens.face E/UmpireManagerAppLevel: getInitComponentsTask: train flow
+03-16 12:10:25.973 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173425973A0-0-0-0-0-0.mp4
+03-16 12:10:25.978 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173425978B0-0-0-0-0-0.mp4
+03-16 12:10:37.016 27688-30526/com.zealens.face E/MediaPlayer: stop called in state 1
+03-16 12:10:37.016 27688-30526/com.zealens.face E/MediaPlayer: error (-38, 0)
+03-16 12:10:37.029 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:37.030 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:37.036 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 12:10:40.048 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:40.057 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:40.060 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 12:10:40.060 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:40.099 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:40.150 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173440150A0-0-0-0-0-0.mp4
+03-16 12:10:40.156 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173440156B0-0-0-0-0-0.mp4
+03-16 12:10:45.063 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:45.063 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:45.078 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=1, hardCount=0}
+03-16 12:10:47.203 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:47.203 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:47.265 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 12:10:47.276 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:47.284 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:47.341 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173447341A0-0-0-0-0-0.mp4
+03-16 12:10:47.347 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173447347B0-0-0-0-0-0.mp4
+03-16 12:10:55.107 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:55.107 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:55.115 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=1, hardCount=0}
+03-16 12:10:55.116 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:55.152 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:55.200 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173455200A0-0-0-0-0-0.mp4
+03-16 12:10:55.202 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173455202B0-0-0-0-0-0.mp4
+03-16 12:10:59.121 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:59.122 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:10:59.132 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=1, hardCount=0}
+03-16 12:10:59.136 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:59.147 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:10:59.178 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173459178A0-0-0-0-0-0.mp4
+03-16 12:10:59.183 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173459183B0-0-0-0-0-0.mp4
+03-16 12:11:03.150 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:11:03.150 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:11:03.167 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=2, hardCount=0}
+03-16 12:11:04.143 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:11:04.143 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:11:04.158 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 12:11:04.159 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:11:04.197 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:11:04.232 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173464232A0-0-0-0-0-0.mp4
+03-16 12:11:04.238 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173464238B0-0-0-0-0-0.mp4
+03-16 12:11:09.187 27688-30526/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:11:09.187 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 12:11:09.202 27688-30526/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=2, hardCount=0}
+03-16 12:11:09.203 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:11:09.226 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 12:11:09.260 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173469256A0-0-0-0-0-0.mp4
+03-16 12:11:09.272 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173469265B0-0-0-0-0-0.mp4
+03-16 14:25:11.948 27688-27688/com.zealens.face E/AnalyticsActivity: mUmpirePresenter.getAnalyzeData()[Lcom.zealens.face.core.internal.TennisBase$DrillBoxScore;@27a9e3c4
+03-16 14:25:11.948 27688-27688/com.zealens.face E/AnalyticsPresenterImpl: 比赛或训练结束页面
+03-16 14:25:11.950 27688-27688/com.zealens.face E/MediaPlayer: stop called in state 1
+03-16 14:25:11.950 27688-27688/com.zealens.face E/MediaPlayer: error (-38, 0)
+03-16 14:25:11.986 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:25:12.078 27688-27688/com.zealens.face E/insideRate:: 25
+03-16 14:25:12.078 27688-27688/com.zealens.face E/insideAngle:: 90.0
+03-16 14:25:12.078 27688-27688/com.zealens.face E/angle_inside:: 115.5
+03-16 14:25:12.078 27688-27688/com.zealens.face E/mediumRate:: 50
+03-16 14:25:12.078 27688-27688/com.zealens.face E/mediumAngle:: 180.0
+03-16 14:25:12.078 27688-27688/com.zealens.face E/angle_medium:: 231.0
+03-16 14:25:12.078 27688-27688/com.zealens.face E/outsideRate: 75
+03-16 14:25:12.078 27688-27688/com.zealens.face E/outsideAngle: 270.0
+03-16 14:25:12.078 27688-27688/com.zealens.face E/angle_outside: 115.5
+03-16 14:25:12.079 27688-27688/com.zealens.face E/insideRate:: 0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/insideAngle:: 0.0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/angle_inside:: 0.0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/mediumRate:: 0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/mediumAngle:: 0.0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/angle_medium:: 0.0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/outsideRate: 50
+03-16 14:25:12.079 27688-27688/com.zealens.face E/outsideAngle: 180.0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/angle_outside: 231.0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/ssLeft: 0-0-0-0
+03-16 14:25:12.079 27688-27688/com.zealens.face E/ssright: 100-0-0-100
+03-16 14:25:12.310 27688-27688/com.zealens.face E/RecyclerView: No adapter attached; skipping layout
+03-16 14:25:12.310 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:25:12.375 27688-27688/com.zealens.face E/RecyclerView: No adapter attached; skipping layout
+03-16 14:25:13.487 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
+03-16 14:37:12.991 27688-27756/com.zealens.face E/UmpireManagerAppLevel: getInitComponentsTask: train flow
+03-16 14:37:26.133 27688-4083/com.zealens.face E/MediaPlayer: stop called in state 1
+03-16 14:37:26.133 27688-4083/com.zealens.face E/MediaPlayer: error (-38, 0)
+03-16 14:37:26.133 27688-27688/com.zealens.face E/MediaPlayer: Error (-38,0)
+03-16 14:37:26.155 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:26.155 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:26.165 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 14:37:29.151 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:29.151 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:29.163 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 14:37:34.153 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:34.163 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:34.167 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=1, hardCount=0}
+03-16 14:37:36.006 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:36.149 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:36.163 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 14:37:36.182 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:36.234 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:36.421 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:37.107 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:37.429 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:38.488 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:38.702 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:38.994 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:39.066 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:39.408 27688-27688/com.zealens.face E/VideoPlayer: Failed to seek, because seek is doing now.
+03-16 14:37:44.430 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:44.430 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:44.439 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=1, hardCount=0}
+03-16 14:37:47.441 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:47.457 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=1, hardCount=0}
+03-16 14:37:47.458 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:52.467 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:52.467 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:52.474 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=2, hardCount=0}
+03-16 14:37:53.467 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:53.467 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:53.478 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
+03-16 14:37:57.474 27688-4083/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
+03-16 14:37:57.484 27688-4083/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=2, hardCount=0}
+03-16 14:37:57.493 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
