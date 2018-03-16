@@ -56,6 +56,7 @@
 03-16 12:10:06.394 27688-29723/com.zealens.face E/Evaluation: Evaluation{trainLevel=2,easyCount=0, mediumCount=0, hardCount=0}
 03-16 12:10:06.395 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
 我们是社会主义接班人！
+i want to go home!
 03-16 12:10:06.395 27688-27688/com.zealens.face E/MediaPlayer: Should have subtitle controller already set
 03-16 12:10:06.428 27688-27757/com.zealens.face E/IPCamera: [L151][stopRecord]: IPCamera::stopRecord
 03-16 12:10:06.469 27688-27757/com.zealens.face E/IPCamera: [L103][startRecord]: IPCamera::startRecord savePath=/mnt/sdcard/tmp/video/1521173406469A0-0-0-0-0-0.mp4
